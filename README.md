@@ -2,7 +2,7 @@
 
 **Live Demo**: [Play Now](https://codexcancerion.github.io/Marafo-finalexam-fluffyfish/)
 
-**Fluffy Shark** is a simple, addictive, and fun Flappy Bird-style game made as a Progressive Web App (PWA). Tap, flap, and swim your way through obstacles while racking up the highest score possible — all inside your browser with offline support!
+**Fluffy Shark** is a simple, addictive, and fun Flappy Bird-style game made as a Progressive Web App (PWA). Tap, flap, and swim your way through obstacles while racking up the highest score possible — all inside your browser!
 
 ---
 
